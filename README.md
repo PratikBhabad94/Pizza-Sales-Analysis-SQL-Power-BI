@@ -41,5 +41,3 @@ Pizza sales data is often scattered across multiple tables, making it difficult 
 The Pizza Sales Analysis project successfully analyzed 21.4K orders using SQL across 4 relational tables. The analysis revealed total revenue of 817.9K, with Classic category contributing the highest revenue share at 26.91%. The Classic Deluxe Pizza emerged as the most ordered pizza, while Large size dominated orders. These insights enable data-driven menu optimization and inventory planning
    
 
-
-The Pizza Sales Analysis Project effectively demonstrates the power of SQL in analyzing and deriving insights from sales data. Through the creation of database tables and the execution of a variety of SQL queries, we have successfully extracted valuable information about the pizza restaurant chain's operations.
