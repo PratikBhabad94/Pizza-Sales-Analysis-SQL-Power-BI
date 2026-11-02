@@ -26,8 +26,6 @@ Pizza sales data is often scattered across multiple tables, making it difficult 
 
 •	Most common size pizza ordered and order number - Large and 18526
 
-•	Most orderd pizza name - The classic deluxe pizza
-
 •	Most orderd pizza category and quantity - Classic, 148888
 
 •	Average no of pizzas sold per day – 138
